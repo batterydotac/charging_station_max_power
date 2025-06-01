@@ -1,7 +1,7 @@
 # charging_station_max_power
 --- Testing data for Organicmaps charging station maximum power processor ---
 
-This repository contains the data used to test the charging station maximum power processor for Organicmaps as of 2025/05/31.
+This repository contains the data used to test the charging station maximum power processor for Organicmaps as of 2025/06/01.
 
 Compile:
 
