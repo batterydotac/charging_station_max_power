@@ -1,0 +1,42 @@
+    <tag k="socket:type1_combo:output" v="150 kW (×3), 350 kW (×4)"/>
+    <tag k="socket:type2:output" v="2x22+1x3,7kW"/>
+    <tag k="socket:type2:output" v="1x43kW, 2x 11kW"/>
+    <tag k="socket:type2:output" v="22 kWamenity=parking orientation=parallel parking=street_side"/>
+    <tag k="source:socket:output" v="http://www.intercharge.eu/index.php?id=13&amp;L=-1%27"/>
+    <tag k="source:socket:type2:output" v="https://fr.chargemap.com/sde35-cimetiere-de-lest-rennes.html"/>
+    <tag k="socket:type2:output" v="unknown"/>
+    <tag k="socket:type2:output" v="3,7; 20,7"/>
+    <tag k="socket:type2:output" v="22+11+3,7 kW"/>
+    <tag k="socket:type2:output" v="5,5 - 11 kW"/>
+    <tag k="socket:type2:output" v="22 kW + 3,7 kW"/>
+    <tag k="socket:type2:output" v="7,4 kW"/>
+    <tag k="socket:type2:output" v="10x15"/>
+    <tag k="socket:type2:output" v="10*15"/>
+    <tag k="socket:type2:output" v="10×15"/>
+    <tag k="socket:type2:output" v="1x22"/>
+    <tag k="socket:type2:output" v="1*22"/>
+    <tag k="socket:type2:output" v="1×22"/>
+    <tag k="socket:type2:output" v="22x1"/>
+    <tag k="socket:type2:output" v="22*1"/>
+    <tag k="socket:type2:output" v="22×1"/>
+    <tag k="socket:nacs:output" v="500 W"/>
+    <tag k="socket:nacs:output" v="22.08"/>
+    <tag k="socket:nacs:output" v="250000"/>
+    <tag k="socket:nacs:output" v="250.000"/>
+    <tag k="socket:type2:output" v="11 kW (2x) / 16 kW (1x)"/>
+    <tag k="socket:type2:output" v="socket:type2:22kW"/>
+    <tag k="charging_station:output" v="300kW (CHAdeMo)"/>
+    <tag k="charging_station:output" v="7FCM 2CFCM 2C"/>
+    <tag k="charging_station:output" v="120квтa"/>
+    <tag k="charging_station:output" v="120Квтa"/>
+    <tag k="charging_station:output" v="120кВтa"/>
+    <tag k="charging_station:output" v="120КВтa"/>
+    <tag k="charging_station:output" v="500втa"/>
+    <tag k="charging_station:output" v="500Втa"/>
+    <tag k="charging_station:output" v="500вa"/>
+    <tag k="charging_station:output" v="500Вa"/>
+    <tag k="charging_station:output" v="вa"/>
+    <tag k="charging_station:output" v="Вa"/>
+    <tag k="socket:type2:output" v="3,7 кВт + 22 кВт"/>
+    <tag k="socket:type2:output" v="7,4 кВт"/>
+    <tag k="socket:type2:output" v="4kva"/>
