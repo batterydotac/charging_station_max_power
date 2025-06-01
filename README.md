@@ -28,3 +28,11 @@ Then all of these results can be combined:
 cat *output.xml >> all.xml
 
 The original eight PBF files - one per continent - were downloaded from Geofabrik.  Antarctica did not have any charging stations, so it was excluded.
+
+The output files have six columns:
+1. Tag
+2. Value
+3. Cleaned value
+4. Extracted numeric value
+5. DC or AC detection type
+6. Accumulated result
