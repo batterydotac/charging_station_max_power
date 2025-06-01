@@ -1,0 +1,2646 @@
+    <tag k="charging_station:output" v="6.2 kW"/>
+    <tag k="charging_station:output" v="720 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250"/>
+    <tag k="socket:nacs:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kw"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:tesla_supercharger:output" v="50"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:nacs:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:nacs:output" v="150"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.4"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:type2:output" v="50 kW"/>
+    <tag k="charging_station:output" v="6.8 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="charging_station:output" v="6.8 kW"/>
+    <tag k="charging_station:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="7.4"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:tesla_destination:output" v="8 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="60"/>
+    <tag k="socket:type1_combo:output" v="60"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="13.2 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_standard:output" v="19.2"/>
+    <tag k="socket:type1:output" v="11.52"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2kW"/>
+    <tag k="socket:type1:output" v="7.4"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2kW"/>
+    <tag k="socket:type1:output" v="7.2kW"/>
+    <tag k="socket:type1:output" v="7.2kW"/>
+    <tag k="socket:type1:output" v="7.2kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_standard:output" v="13 kW"/>
+    <tag k="socket:nacs:output" v="150"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:tesla_standard:output" v="8 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:tesla_standard:output" v="16 kW"/>
+    <tag k="socket:type1:output" v="3 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="120 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50kW"/>
+    <tag k="charging_station:output" v="100"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="3 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="72 kW"/>
+    <tag k="charging_station:output" v="72 kW"/>
+    <tag k="socket:type1:output" v="7"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:nacs:output" v="150"/>
+    <tag k="socket:nacs:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="72"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="72"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:nacs:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="charging_station:output" v="72 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type2:output" v="6.6 kW"/>
+    <tag k="socket:nacs:output" v="150"/>
+    <tag k="socket:tesla_standard:output" v="19.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="30"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1_combo:output" v="25"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="3.6"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_standard:output" v="19.2"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:tesla_standard:output" v="19.2"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1:output" v="9.6"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1:output" v="9.6"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:tesla_standard:output" v="19.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_standard:output" v="19.2"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1:output" v="9.6"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1:output" v="11.52"/>
+    <tag k="socket:type1:output" v="5.3"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="80 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="11.52"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="charging_station:output" v="13.2 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="70"/>
+    <tag k="socket:type1:output" v="30"/>
+    <tag k="socket:type1:output" v="30"/>
+    <tag k="socket:type1:output" v="30"/>
+    <tag k="socket:type1:output" v="30"/>
+    <tag k="socket:type1:output" v="30"/>
+    <tag k="socket:type1:output" v="30"/>
+    <tag k="socket:type1:output" v="30"/>
+    <tag k="socket:type1:output" v="70"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="charging_station:output" v="72 kW"/>
+    <tag k="socket:chademo:output" v="44 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="charging_station:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="charging_station:output" v="7.4  kW"/>
+    <tag k="socket:type1:output" v="7.4 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="6.2 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="charging_station:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="8"/>
+    <tag k="socket:type1:output" v="6.7 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type2:output" v="150 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="200 kW"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.7 kW"/>
+    <tag k="charging_station:output" v="7.2 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW;150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="120 kW"/>
+    <tag k="socket:type1_cable:output" v="6kW"/>
+    <tag k="socket:tesla_supercharger:output" v="120 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="charging_station:output" v="29.8 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="generator:output:electricity" v="6.6 kW"/>
+    <tag k="generator:output:electricity" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="250 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="6.24"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type2_combo:output" v="150 kW"/>
+    <tag k="socket:tesla_destination:output" v="11.5"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="350 kW"/>
+    <tag k="charging_station:output" v="312 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="charging_station:output" v="13.2 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type2:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="3 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1_combo:output" v="250"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="charging_station:output" v="13.2 kW"/>
+    <tag k="charging_station:output" v="7.2 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="50"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="3 kW"/>
+    <tag k="socket:type1:output" v="6.1"/>
+    <tag k="socket:type2:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="200"/>
+    <tag k="socket:type1:output" v="200"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="7.6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="16kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="socket:type2_combo:output" v="350kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type2:output" v="6.5 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="9.6 kW"/>
+    <tag k="socket:type1:output" v="9.6 kW"/>
+    <tag k="socket:type1:output" v="9.6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="9.6 kW"/>
+    <tag k="socket:type1:output" v="9.6 kW"/>
+    <tag k="socket:type1:output" v="9.6 kW"/>
+    <tag k="socket:type1:output" v="9.6 kW"/>
+    <tag k="socket:type1:output" v="2.8"/>
+    <tag k="socket:type1:output" v="2.8"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="350kW"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type2_combo:output" v="350kW"/>
+    <tag k="socket:type2_combo:output" v="350kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:chademo:output" v="150 kW"/>
+    <tag k="socket:type2_combo:output" v="150 kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="charging_station:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="125 kW"/>
+    <tag k="socket:type1_combo:output" v="125 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type2_combo:output" v="350kW"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:type2_combo:output" v="350kW"/>
+    <tag k="socket:type2_combo:output" v="350kW"/>
+    <tag k="socket:type2_combo:output" v="350kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:type2_combo:output" v="350kW"/>
+    <tag k="socket:chademo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kw"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="charging_station:output" v="125 kW"/>
+    <tag k="socket:type2:output" v="7.2kW"/>
+    <tag k="socket:type2:output" v="50 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="62.5 kW"/>
+    <tag k="charging_station:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="150 kW"/>
+    <tag k="charging_station:output" v="62.5 kW"/>
+    <tag k="charging_station:output" v="62.5 kW"/>
+    <tag k="charging_station:output" v="62.5 kW"/>
+    <tag k="charging_station:output" v="62.5 kW"/>
+    <tag k="socket:chademo:output" v="7.4 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="charging_station:output" v="250 kW"/>
+    <tag k="socket:type1_cable:output" v="6kW"/>
+    <tag k="charging_station:output" v="6.6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.4 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.7 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:tesla_standard:output" v="10 kW"/>
+    <tag k="socket:type1:output" v="6kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="charging_station:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="350 kW;350 kW;150 kW;150 kW;150 kW;150 kW;150 kW;150 kW;150 kW;150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7200"/>
+    <tag k="socket:type1:output" v="7200"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="125"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="charging_station:output" v="AC"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250 kW"/>
+    <tag k="socket:type1_cable:output" v="7.68 kW"/>
+    <tag k="charging_station:output" v="6.6kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="6.24 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="175 kW"/>
+    <tag k="socket:type1_combo:output" v="174 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.7 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="100 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="25 kW"/>
+    <tag k="socket:chademo:output" v="25 kW"/>
+    <tag k="socket:type1_combo:output" v="25 kW"/>
+    <tag k="charging_station:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type1:output" v="7.2kW"/>
+    <tag k="socket:type1:output" v="7.2kW"/>
+    <tag k="socket:type1:output" v="5"/>
+    <tag k="socket:type1:output" v="6.4 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="7.4 kW"/>
+    <tag k="charging_station:output" v="7.4 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type1:output" v="6.2 kW"/>
+    <tag k="socket:type1:output" v="6.2 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="3.3"/>
+    <tag k="socket:type1:output" v="7.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type2_combo:output" v="62.5 kW"/>
+    <tag k="socket:type2:output" v="7.4 kW"/>
+    <tag k="socket:type2:output" v="7.4 kW"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.4 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="9kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.7 kW"/>
+    <tag k="socket:type1:output" v="7.7 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="9.6 kW"/>
+    <tag k="socket:type1:output" v="6.1 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="charging_station:output" v="200 kW"/>
+    <tag k="socket:type1_cable:output" v="6 kW"/>
+    <tag k="socket:chademo:output" v="120 kW"/>
+    <tag k="socket:type1_combo:output" v="120 kW"/>
+    <tag k="socket:chademo:output" v="120 kW"/>
+    <tag k="socket:type1_combo:output" v="120 kW"/>
+    <tag k="socket:type1:output" v="7.7 kW"/>
+    <tag k="socket:type1:output" v="7.7 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:type1_cable:output" v="7.6kW"/>
+    <tag k="socket:type1_cable:output" v="7.6kW"/>
+    <tag k="socket:type2_combo:output" v="150 kW"/>
+    <tag k="socket:type2_combo:output" v="350 kW"/>
+    <tag k="socket:type2_combo:output" v="150 kW"/>
+    <tag k="socket:type2_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="100;50;24;180"/>
+    <tag k="socket:type1_combo:output" v="100;50;24;180"/>
+    <tag k="socket:chademo:output" v="100;50;24;180"/>
+    <tag k="socket:type1_combo:output" v="100;50;24;180"/>
+    <tag k="socket:chademo:output" v="100;50;24;180"/>
+    <tag k="socket:type1_combo:output" v="100;50;24;180"/>
+    <tag k="socket:chademo:output" v="100;50;24;180"/>
+    <tag k="socket:type1_combo:output" v="100;50;24;180"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50;100;24;180"/>
+    <tag k="socket:type1_combo:output" v="50;100;24;180"/>
+    <tag k="socket:tesla_destination:output" v="16 kW"/>
+    <tag k="socket:type1:output" v="6.24"/>
+    <tag k="charging_station:output" v="25 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1_cable:output" v="6.5 kW"/>
+    <tag k="socket:type1_cable:output" v="7.5 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="charging_station:output" v="125 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="175 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="charging_station:output" v="100 kW"/>
+    <tag k="charging_station:output" v="100 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_combo:output" v="25 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type1_cable:output" v="6.3kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_cable:output" v="7.2 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kw"/>
+    <tag k="charging_station:output" v="4"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_cable:output" v="7.2 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="60 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50000"/>
+    <tag k="socket:type1_combo:output" v="50000"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="socket:type1_cable:output" v="7.6kW"/>
+    <tag k="socket:type1_cable:output" v="7.6kW"/>
+    <tag k="socket:type1_cable:output" v="7.6kW"/>
+    <tag k="charging_station:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="charging_station:output" v="7.6 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_cable:output" v="6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type1_combo:output" v="125 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_destination:output" v="10 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type1:output" v="8 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="charging_station:output" v="6 kW"/>
+    <tag k="socket:type1_cable:output" v="6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="6.4kW"/>
+    <tag k="charging_station:output" v="15.4 kW"/>
+    <tag k="charging_station:output" v="15.4 kW"/>
+    <tag k="charging_station:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="6.2 kW"/>
+    <tag k="socket:type1:output" v="6.2 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.7 kW"/>
+    <tag k="charging_station:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="62.5kW"/>
+    <tag k="socket:type1_combo:output" v="62.5kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="charging_station:output" v="7.7kW"/>
+    <tag k="socket:type1:output" v="7.7kW"/>
+    <tag k="charging_station:output" v="7.7kW"/>
+    <tag k="charging_station:output" v="7.7kW"/>
+    <tag k="socket:type1:output" v="6.6kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="8"/>
+    <tag k="socket:type2:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kw"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="150"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="charging_station:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="8.32"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="charging_station:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="charging_station:output" v="250 kW"/>
+    <tag k="socket:type1_combo:output" v="24 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="11.5 kW"/>
+    <tag k="socket:type1:output" v="8.64 kW"/>
+    <tag k="socket:type1:output" v="6.4kW"/>
+    <tag k="socket:type1:output" v="6.4kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="25 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type2:output" v="6.4 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_cable:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type2:output" v="7.2 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="8 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:tesla_supercharger:output" v="16 kWh"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="@"/>
+    <tag k="socket:type1:output" v="14 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="charging_station:output" v="ccs"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.2 kW"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="100kW"/>
+    <tag k="socket:type1_combo:output" v="100kW"/>
+    <tag k="socket:type1_cable:output" v="6kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type2_combo:output" v="350"/>
+    <tag k="socket:type2_combo:output" v="350"/>
+    <tag k="socket:type2_combo:output" v="350"/>
+    <tag k="socket:type2_combo:output" v="350"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.6 kWh"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.72"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="9"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="charging_station:output" v="5.76"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="8.32"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="6.2"/>
+    <tag k="charging_station:output" v="125"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_cable:output" v="6.48kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="100 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="100 kW"/>
+    <tag k="socket:type1:output" v="6.24"/>
+    <tag k="socket:type1:output" v="6.48"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1:output" v="8.4 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1:output" v="7.6"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="11.5"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_cable:output" v="6kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="charging_station:output" v="180 kW"/>
+    <tag k="socket:type1_combo:output" v="."/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:type1_combo:output" v="135"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="80 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="100"/>
+    <tag k="socket:type1_combo:output" v="200"/>
+    <tag k="socket:chademo:output" v="100"/>
+    <tag k="socket:type1_combo:output" v="200"/>
+    <tag k="socket:chademo:output" v="100"/>
+    <tag k="socket:type1_combo:output" v="200"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="8 kw"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kw"/>
+    <tag k="socket:type2_combo:output" v="50"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_combo:output" v="180 kW"/>
+    <tag k="socket:type1:output" v="7.7"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.4 kW"/>
+    <tag k="socket:chademo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type2:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.6 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="charging_station:output" v="100"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="200"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:tesla_supercharger:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="100"/>
+    <tag k="socket:tesla_supercharger:output" v="100"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1:output" v="8 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:type1:output" v="7.2 kWh"/>
+    <tag k="socket:type1:output" v="3.3-6.6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="charging_station:output" v="13.4"/>
+    <tag k="socket:type1:output" v="6.7"/>
+    <tag k="charging_station:output" v="13.4"/>
+    <tag k="socket:type1:output" v="6.7"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72"/>
+    <tag k="socket:type1:output" v="7"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50;24;180;100"/>
+    <tag k="socket:type1_combo:output" v="50;24;180;100"/>
+    <tag k="socket:chademo:output" v="100;50;24"/>
+    <tag k="socket:type1_combo:output" v="100;50;24"/>
+    <tag k="socket:chademo:output" v="50;100"/>
+    <tag k="socket:type1_combo:output" v="50;100"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="180;100"/>
+    <tag k="socket:type1_combo:output" v="180;100"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="24"/>
+    <tag k="socket:type1_combo:output" v="24"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50;100;180"/>
+    <tag k="socket:type1_combo:output" v="50;100;180"/>
+    <tag k="socket:chademo:output" v="50;100;180;24"/>
+    <tag k="socket:type1_combo:output" v="50;100;180;24"/>
+    <tag k="socket:chademo:output" v="50;100"/>
+    <tag k="socket:type1_combo:output" v="50;100"/>
+    <tag k="socket:chademo:output" v="180"/>
+    <tag k="socket:type1_combo:output" v="180"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="120 kW"/>
+    <tag k="socket:type1:output" v="180 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="6.7"/>
+    <tag k="socket:chademo:output" v="100"/>
+    <tag k="socket:tesla_supercharger:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="100"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1:output" v="6.3"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="200"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="200"/>
+    <tag k="socket:type1:output" v="7"/>
+    <tag k="socket:type1:output" v="7"/>
+    <tag k="socket:type1:output" v="7"/>
+    <tag k="socket:type1:output" v="7"/>
+    <tag k="socket:type1:output" v="7"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:type1_combo:output" v="200"/>
+    <tag k="socket:chademo:output" v="150"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.4 kW"/>
+    <tag k="socket:DCfast:output" v="62.5 kWh"/>
+    <tag k="socket:DCfast:output" v="62.5 kWh"/>
+    <tag k="socket:type1:output" v="6.6 kWh"/>
+    <tag k="socket:type1:output" v="3.7 kW"/>
+    <tag k="socket:type1_cable:output" v="3.3kW"/>
+    <tag k="socket:type1:output" v="3.7 kW"/>
+    <tag k="socket:type1_cable:output" v="6.6kW"/>
+    <tag k="socket:type1:output" v="6.2 kW"/>
+    <tag k="socket:tesla_destination:output" v="10"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:chademo:output" v="100"/>
+    <tag k="socket:type1_combo:output" v="100"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.3"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="100 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="100 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="100 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="100 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="5 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type2:output" v="7.7 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_cable:output" v="8kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="10"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.68"/>
+    <tag k="socket:type1_combo:output" v="24"/>
+    <tag k="socket:type1:output" v="11"/>
+    <tag k="socket:type1:output" v="11"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="6.6kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.3"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7.4"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1_cable:output" v="6kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="50kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="72kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="24kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1:output" v="6"/>
+    <tag k="socket:type1_combo:output" v="24kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:chademo:output" v="100;50"/>
+    <tag k="socket:tesla_supercharger:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="100"/>
+    <tag k="socket:type1_combo:output" v="300"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1:output" v="6.4"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="6.1"/>
+    <tag k="socket:type1:output" v="16.6"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla:output" v="14"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="charging_station:output" v="50kW"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.24 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_destination:output" v="8kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1_combo:output" v="325"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="150"/>
+    <tag k="socket:type1:output" v="20"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="50"/>
+    <tag k="socket:chademo:output" v="20"/>
+    <tag k="socket:type1_combo:output" v="20"/>
+    <tag k="socket:chademo:output" v="25"/>
+    <tag k="socket:type1_combo:output" v="25"/>
+    <tag k="socket:type1_cable:output" v="6.48"/>
+    <tag k="socket:type1:output" v="75 KW"/>
+    <tag k="socket:tesla_destination:output" v="3.36 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_cable:output" v="5.8kW"/>
+    <tag k="socket:type1:output" v="4"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1_cable:output" v="5.8kW"/>
+    <tag k="socket:nema_5_20:output" v="1.9 kW"/>
+    <tag k="socket:type1_combo:output" v="120 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="200 kW"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="6.7"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="charging_station:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="charging_station:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type2:output" v="6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type2_combo:output" v="160"/>
+    <tag k="socket:tesla_supercharger:output" v="150"/>
+    <tag k="socket:type1_cable:output" v="7 kW"/>
+    <tag k="charging_station:output" v="7.2kW"/>
+    <tag k="charging_station:output" v="1.9 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="charging_station:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="75 kW"/>
+    <tag k="socket:type1_combo:output" v="75 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:type1_cable:output" v="10kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="9.6"/>
+    <tag k="socket:type1:output" v="9.6"/>
+    <tag k="socket:type1:output" v="19.2"/>
+    <tag k="socket:chademo:output" v="125"/>
+    <tag k="socket:tesla_supercharger:output" v="125"/>
+    <tag k="socket:type1_combo:output" v="125"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.4"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:tesla_supercharger:output" v="325 kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1:output" v="7.7"/>
+    <tag k="socket:type1:output" v="7.7"/>
+    <tag k="socket:type1:output" v="7.7"/>
+    <tag k="socket:nacs:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1_combo:output" v="325"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1_combo:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1_combo:output" v="325"/>
+    <tag k="socket:type1_combo:output" v="125"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1_combo:output" v="325"/>
+    <tag k="socket:type1:output" v="11.5"/>
+    <tag k="socket:tesla_supercharger:output" v="125"/>
+    <tag k="socket:type1_combo:output" v="125"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="350"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:tesla_destination:output" v="11.5"/>
+    <tag k="socket:chademo:output" v="62 kW"/>
+    <tag k="socket:type1_combo:output" v="62 kW"/>
+    <tag k="socket:type1_combo:output" v="180 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="7.4 kW"/>
+    <tag k="socket:type1:output" v="12 kW"/>
+    <tag k="socket:type1:output" v="12 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1_combo:output" v="325"/>
+    <tag k="socket:type1:output" v="13.3"/>
+    <tag k="socket:type1_combo:output" v="180"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:nacs:output" v="9"/>
+    <tag k="socket:type2_combo:output" v="50"/>
+    <tag k="socket:type1:output" v="6.48 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_cable:output" v="6.6kW"/>
+    <tag k="socket:chademo:output" v="90 kW"/>
+    <tag k="socket:type2_combo:output" v="90 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1:output" v="7.4 kW"/>
+    <tag k="socket:chademo:output" v="100"/>
+    <tag k="socket:type1_combo:output" v="100"/>
+    <tag k="socket:type1:output" v="19.2kW"/>
+    <tag k="socket:type2_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type2:output" v="9.7 kW"/>
+    <tag k="socket:tesla_destination:output" v="11.5"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="11.5"/>
+    <tag k="socket:type1:output" v="7.6 kWh"/>
+    <tag k="socket:tesla_destination:output" v="7.6 kWh"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1:output" v="16.64 kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1:output" v="10.4 kW"/>
+    <tag k="socket:type1:output" v="5"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="25kW"/>
+    <tag k="socket:nacs:output" v="325"/>
+    <tag k="generator:output:electricity" v="36.450 kW"/>
+    <tag k="charging_station:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:type1:output" v="7.2kW"/>
+    <tag k="socket:type1_combo:output" v="50kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="charging_station:output" v="250"/>
+    <tag k="charging_station:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW;350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW; 350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150;350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW; 350 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW;350 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:tesla_supercharger:output" v="72 kW"/>
+    <tag k="socket:chademo:output" v="25 kW"/>
+    <tag k="socket:type1:output" v="6,2 kW"/>
+    <tag k="socket:type2_combo:output" v="25 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1_combo:output" v="400 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:chademo:output" v="62.5 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="100"/>
+    <tag k="socket:type1_combo:output" v="350;100"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:nacs:output" v="150"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1_combo:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1:output" v="6.4 kW"/>
+    <tag k="socket:type1:output" v="6.4 kW"/>
+    <tag k="socket:chademo:output" v="100"/>
+    <tag k="socket:type1:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="100;350"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type1_combo:output" v="200 kW"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1:output" v="12 kW"/>
+    <tag k="socket:type1_cable:output" v="6.4 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="charging_station:output" v="250kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kw"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="250 kw"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:tesla_supercharger:output" v="250 KW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:nacs:output" v="250"/>
+    <tag k="socket:type1_combo:output" v="250"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="62.5 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="120 kW"/>
+    <tag k="socket:chademo:output" v="100 kW"/>
+    <tag k="socket:type2_combo:output" v="100 kW"/>
+    <tag k="socket:type1:output" v="8"/>
+    <tag k="socket:type1_cable:output" v="6 kW"/>
+    <tag k="socket:type1:output" v="6 kW"/>
+    <tag k="socket:type1_cable:output" v="6.6kW"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1_combo:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="250kW"/>
+    <tag k="socket:type1_combo:output" v="250kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1:output" v="7.2 kW"/>
+    <tag k="socket:type1:output" v="7.3 kW"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="charging_station:output" v="6.2 kW"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="charging_station:output" v="250kW"/>
+    <tag k="socket:type1_cable:output" v="8.32 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1_combo:output" v="250 kW"/>
+    <tag k="socket:type1:output" v="7.2"/>
+    <tag k="charging_station:output" v="125 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="125 kW"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="socket:type1_cable:output" v="6.6 kW"/>
+    <tag k="socket:type1_cable:output" v="6 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:type1_combo:output" v="250kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="socket:type1_cable:output" v="6.4kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW (×3), 350 kW (×4)"/>
+    <tag k="socket:type1:output" v="6.48 kW"/>
+    <tag k="socket:type1:output" v="6.48 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.5"/>
+    <tag k="socket:type1_combo:output" v="62.5; 360"/>
+    <tag k="socket:type1_cable:output" v="9.6 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type1_cable:output" v="16.64 kW"/>
+    <tag k="socket:type1_combo:output" v="160"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.4"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type2_combo:output" v="150 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_cable:output" v="1.2 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="400 kW"/>
+    <tag k="socket:type1_combo:output" v="400 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="400 kW"/>
+    <tag k="socket:type1_combo:output" v="400 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="400 kW"/>
+    <tag k="socket:type1_combo:output" v="400 kW"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:type1_combo:output" v="150 kW"/>
+    <tag k="socket:chademo:output" v="62.5"/>
+    <tag k="socket:type1:output" v="6.6"/>
+    <tag k="socket:type1_combo:output" v="62.5"/>
+    <tag k="socket:tesla_supercharger:output" v="400 kW"/>
+    <tag k="socket:type1_combo:output" v="400 kW"/>
+    <tag k="socket:type1_combo:output" v="180 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="400 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1_combo:output" v="350"/>
+    <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="250 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="400 kW"/>
+    <tag k="socket:type1_combo:output" v="400 kW"/>
+    <tag k="socket:nacs:output" v="325"/>

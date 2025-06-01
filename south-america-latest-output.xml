@@ -1,0 +1,91 @@
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type3:output" v="22 kW"/>
+    <tag k="output" v="22kw"/>
+    <tag k="output" v="22kw"/>
+    <tag k="output" v="43kw"/>
+    <tag k="output" v="22kw"/>
+    <tag k="output" v="43kw"/>
+    <tag k="output" v="7,4kw"/>
+    <tag k="charging_station:output" v="22 kW"/>
+    <tag k="charging_station:output" v="22 kW"/>
+    <tag k="charging_station:output" v="43 kW"/>
+    <tag k="charging_station:output" v="22 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2:output" v="43 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2:output" v="43 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2:output" v="43 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type2:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type1:output" v="22 kW"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type3:output" v="22 kW"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type2:output" v="7 kW"/>
+    <tag k="socket:type1:output" v="7 kW"/>
+    <tag k="socket:type2:output" v="7 kW"/>
+    <tag k="charging_station:output" v="50 kVA"/>
+    <tag k="socket:type1:output" v="22 kW"/>
+    <tag k="socket:type1:output" v="7.4 kW"/>
+    <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="socket:type1:output" v="7.4 kW"/>
+    <tag k="socket:type1:output" v="7.4 kW"/>
+    <tag k="charging_station:output" v="22"/>
+    <tag k="charging_station:output" v="4 kW"/>
+    <tag k="charging_station:output" v="44 kW"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="charging_station:output" v="44 kW"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="charging_station:output" v="44 kW"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="charging_station:output" v="44 kW"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="charging_station:output" v="40 kW"/>
+    <tag k="output" v="150 kW"/>
+    <tag k="charging_station:output" v="44 kW"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="generator:output:electricity" v="2.1 MW"/>
+    <tag k="generator:output:electricity" v="7 kW"/>
+    <tag k="generator:output:electricity" v="22kW"/>
+    <tag k="socket:output" v="50"/>
+    <tag k="socket:type2:output" v="60 kW"/>
+    <tag k="socket:type2_combo:output" v="40kW"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="charging_station:output" v="22"/>
+    <tag k="socket:type2_combo:output" v="30kW"/>
+    <tag k="socket:chademo:output" v="50"/>
+    <tag k="socket:type2_cable:output" v="43"/>
+    <tag k="socket:type2_combo:output" v="50"/>
+    <tag k="socket:type2:output" v="22 KW"/>
+    <tag k="socket:type2:output" v="50 KW"/>
+    <tag k="socket:type2:output" v="50 KW"/>
+    <tag k="socket:type2:output" v="24 KW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2:output" v="80 kW"/>
+    <tag k="socket:type2:output" v="80 kW"/>
+    <tag k="socket:type2:output" v="80 kW"/>
+    <tag k="socket:type2:output" v="80 kW"/>
+    <tag k="socket:type2:output" v="7.4kW"/>
+    <tag k="socket:type2_combo:output" v="120kW"/>
+    <tag k="socket:type2_combo:output" v="60kW"/>

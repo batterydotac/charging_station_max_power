@@ -66474,7 +66474,6 @@
     <tag k="charging_station:output" v="150 kW"/>
     <tag k="socket:type1_cable:output" v="7 kw"/>
     <tag k="charging_station:output" v="50 kW"/>
-    <tag k="output" v="50 kW"/>
     <tag k="socket:chademo:output" v="50"/>
     <tag k="socket:tesla_supercharger:output" v="50"/>
     <tag k="socket:type1:output" v="7.2"/>
@@ -66703,8 +66702,6 @@
     <tag k="socket:type1:output" v="7.2"/>
     <tag k="socket:type1:output" v="7.2"/>
     <tag k="socket:type1:output" v="6.6 kW"/>
-    <tag k="output" v="6.6 kW"/>
-    <tag k="output" v="6.6kW"/>
     <tag k="charging_station:output" v="3 kW"/>
     <tag k="socket:type1:output" v="7.2"/>
     <tag k="socket:type1:output" v="7.2"/>
@@ -66800,6 +66797,7 @@
     <tag k="socket:type1:output" v="7.2"/>
     <tag k="socket:type1:output" v="6.6"/>
     <tag k="socket:type1:output" v="6.6"/>
+    <tag k="generator:output:electricity" v="yes"/>
     <tag k="socket:type1:output" v="6.6"/>
     <tag k="socket:chademo:output" v="50"/>
     <tag k="socket:type1_combo:output" v="50"/>
@@ -66831,7 +66829,6 @@
     <tag k="socket:type1:output" v="11.52"/>
     <tag k="socket:type1:output" v="7.2"/>
     <tag k="socket:type1:output" v="6.6"/>
-    <tag k="output" v="6.6 kW"/>
     <tag k="charging_station:output" v="13.2 kW"/>
     <tag k="socket:type1:output" v="7.2"/>
     <tag k="socket:type1:output" v="7.2"/>
@@ -66916,6 +66913,8 @@
     <tag k="charging_station:output" v="29.8 kW"/>
     <tag k="socket:type1:output" v="6.6 kW"/>
     <tag k="socket:type1:output" v="6.6 kW"/>
+    <tag k="generator:output:electricity" v="6.6 kW"/>
+    <tag k="generator:output:electricity" v="6.6 kW"/>
     <tag k="socket:type1:output" v="6.6 kW"/>
     <tag k="charging_station:output" v="250 kW"/>
     <tag k="charging_station:output" v="150 kW"/>
@@ -67637,8 +67636,6 @@
     <tag k="socket:type1_combo:output" v="150"/>
     <tag k="socket:type1_combo:output" v="150"/>
     <tag k="socket:type1_combo:output" v="350"/>
-    <tag k="output" v="62.5 kW"/>
-    <tag k="output" v="62.5 kW"/>
     <tag k="socket:nacs:output" v="250"/>
     <tag k="socket:type1:output" v="7.2"/>
     <tag k="socket:nacs:output" v="250"/>
@@ -67769,7 +67766,6 @@
     <tag k="socket:type1_combo:output" v="350 kW"/>
     <tag k="socket:type1_combo:output" v="150"/>
     <tag k="socket:type1_combo:output" v="135"/>
-    <tag k="output" v="250 kW"/>
     <tag k="socket:type1:output" v="7.2"/>
     <tag k="socket:chademo:output" v="80 kW"/>
     <tag k="socket:type1_combo:output" v="150 kW"/>
@@ -67779,7 +67775,6 @@
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
-    <tag k="output" v="62.5 kW"/>
     <tag k="socket:chademo:output" v="100"/>
     <tag k="socket:type1_combo:output" v="200"/>
     <tag k="socket:chademo:output" v="100"/>
@@ -67798,8 +67793,6 @@
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
-    <tag k="output" v="62.5 kW"/>
-    <tag k="output" v="62.5 kW"/>
     <tag k="socket:type1:output" v="7.2"/>
     <tag k="socket:type1:output" v="8 kw"/>
     <tag k="socket:tesla_supercharger:output" v="150 kw"/>
@@ -67851,7 +67844,6 @@
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
-    <tag k="output" v="50 kW"/>
     <tag k="socket:chademo:output" v="50"/>
     <tag k="socket:type1_combo:output" v="150"/>
     <tag k="socket:chademo:output" v="50"/>
@@ -68558,10 +68550,8 @@
     <tag k="socket:type1_combo:output" v="350 kW"/>
     <tag k="socket:chademo:output" v="100 kW"/>
     <tag k="socket:type1_combo:output" v="350 kW"/>
-    <tag k="output" v="180 kW"/>
     <tag k="socket:type1:output" v="7.3"/>
     <tag k="socket:type1_combo:output" v="50"/>
-    <tag k="output" v="400 kW"/>
     <tag k="socket:type1:output" v="5 kW"/>
     <tag k="socket:type1:output" v="5 kW"/>
     <tag k="socket:type1:output" v="5 kW"/>
@@ -68890,6 +68880,7 @@
     <tag k="socket:type1:output" v="6.6 kW"/>
     <tag k="charging_station:output" v="25kW"/>
     <tag k="socket:nacs:output" v="325"/>
+    <tag k="generator:output:electricity" v="36.450 kW"/>
     <tag k="charging_station:output" v="6.6 kW"/>
     <tag k="charging_station:output" v="250 kW"/>
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
@@ -68900,6 +68891,8 @@
     <tag k="socket:type1_combo:output" v="50kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type1_combo:output" v="350 kW"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:output:electricity" v="yes"/>
     <tag k="socket:tesla_supercharger:output" v="150 kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type1_combo:output" v="350 kW"/>
@@ -68982,6 +68975,9 @@
     <tag k="socket:type1_combo:output" v="100;350"/>
     <tag k="socket:chademo:output" v="100 kW"/>
     <tag k="socket:type1_combo:output" v="200 kW"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:output:electricity" v="yes"/>
     <tag k="socket:type1_combo:output" v="350 kW"/>
     <tag k="socket:type1:output" v="12 kW"/>
     <tag k="socket:type1_cable:output" v="6.4 kW"/>
