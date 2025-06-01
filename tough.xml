@@ -9,6 +9,7 @@
     <tag k="socket:type2:output" v="22+11+3,7 kW"/>
     <tag k="socket:type2:output" v="5,5 - 11 kW"/>
     <tag k="socket:type2:output" v="22 kW + 3,7 kW"/>
+    <tag k="socket:type2:output" v="1,7 KW"/>
     <tag k="socket:type2:output" v="7,4 kW"/>
     <tag k="socket:type2:output" v="10x15"/>
     <tag k="socket:type2:output" v="10*15"/>
@@ -23,7 +24,8 @@
     <tag k="socket:nacs:output" v="22.08"/>
     <tag k="socket:nacs:output" v="250000"/>
     <tag k="socket:nacs:output" v="250.000"/>
-    <tag k="socket:type2:output" v="11 kW (2x) / 16 kW (1x)"/>
+    <tag k="socket:nacs:output" v="20000"/>
+    <tag k="socket:type2:output" v="11 kW (2x) / 16,1 kW (1x)"/>
     <tag k="socket:type2:output" v="socket:type2:22kW"/>
     <tag k="charging_station:output" v="300kW (CHAdeMo)"/>
     <tag k="charging_station:output" v="7FCM 2CFCM 2C"/>
