@@ -19,7 +19,6 @@
 #define MAX_POWER_POINT '.'
 
 
-
 std::string MaxChargingPower(std::string_view const & m, std::string const & k, std::string const & v)
 {
   bool typedc = false;
