@@ -67,7 +67,6 @@
     <tag k="socket:type2:output" v="22kW"/>
     <tag k="socket:type2:output" v="22kW"/>
     <tag k="socket:type2:output" v="22kW"/>
-    <tag k="output" v="50 kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
     <tag k="charging_station:output" v="100 kW"/>
@@ -96,18 +95,14 @@
     <tag k="socket:type2_combo:output" v="120 kW"/>
     <tag k="socket:type2:output" v="22 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
-    <tag k="output" v="50 kw"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
-    <tag k="output" v="100 kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
-    <tag k="output" v="50 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
     <tag k="socket:chademo:output" v="50"/>
     <tag k="socket:type2:output" v="22"/>
     <tag k="socket:type2_combo:output" v="50"/>
-    <tag k="output" v="50 kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
     <tag k="socket:chademo:output" v="50"/>
@@ -147,8 +142,6 @@
     <tag k="charging_station:output" v="50 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
     <tag k="socket:tesla_supercharger:output" v="120 kW"/>
-    <tag k="output" v="16A"/>
-    <tag k="output" v="50 kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
     <tag k="socket:chademo:output" v="100 kW"/>
@@ -170,14 +163,12 @@
     <tag k="charging_station:output" v="100 kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type2:output" v="50 kW"/>
-    <tag k="output" v="7 kW"/>
     <tag k="socket:type2:output" v="7 kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
     <tag k="socket:type2:output" v="22 kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
-    <tag k="output" v="25 kW"/>
     <tag k="socket:chademo:output" v="25 kW"/>
     <tag k="socket:type2_combo:output" v="25 kW"/>
     <tag k="socket:chademo:output" v="50 kW"/>
@@ -567,8 +558,6 @@
     <tag k="socket:type2:output" v="22kW"/>
     <tag k="socket:type2_combo:output" v="50kW"/>
     <tag k="socket:type2_combo:output" v="147 kW"/>
-    <tag k="output" v="24 kW"/>
-    <tag k="output" v="80 kW"/>
     <tag k="socket:tesla_supercharger:output" v="250 kW"/>
     <tag k="socket:chademo:output" v="75 kW"/>
     <tag k="socket:type2_combo:output" v="75 kW"/>

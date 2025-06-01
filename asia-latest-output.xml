@@ -12,7 +12,6 @@
     <tag k="socket:type2:output" v="43 kW"/>
     <tag k="socket:type2_combo:output" v="50 kW"/>
     <tag k="socket:type2:output" v="22 kW"/>
-    <tag k="output" v="3.7 kW"/>
     <tag k="socket:type2:output" v="22 kW"/>
     <tag k="socket:type2:output" v="22 kW"/>
     <tag k="socket:type2:output" v="3.7 kW"/>
@@ -64,7 +63,6 @@
     <tag k="socket:type2:output" v="22 kW"/>
     <tag k="socket:type2_combo:output" v="40 kW"/>
     <tag k="socket:domestic:output" v="500 W"/>
-    <tag k="output" v="50kW"/>
     <tag k="socket:type2:output" v="11kW"/>
     <tag k="socket:type1:output" v="7.4kW"/>
     <tag k="socket:type2:output" v="250 kW"/>
