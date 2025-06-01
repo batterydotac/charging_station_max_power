@@ -21,6 +21,10 @@ osmium tags-filter north-america-latest.osm.pbf amenity=charging_station -o nort
 
 Next, to filter the "output" tags, run:
 
-cat north-america-latest.xml | grep output > north-america-latest-output.xml
+cat north-america-latest.xml | grep ":output" > north-america-latest-output.xml
 
-The original eight PBF files - one per continent - were downloaded from Geofabrik.
+Then all of these results can be combined:
+
+cat *output.xml >> all.xml
+
+The original eight PBF files - one per continent - were downloaded from Geofabrik.  Antarctica did not have any charging stations, so it was excluded.
