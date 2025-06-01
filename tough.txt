@@ -42,3 +42,4 @@
 "socket:type2:output"                   "3,7 кВт + 22 кВт"                                        "3,7kwт+22kwт"                                                "22"    "AC"   "22 kW AC"
 "socket:type2:output"                   "7,4 кВт"                                                    "7,4kwт"                                                       "7.4"   "AC"   "7.4 kW AC"
 "socket:type2:output"                   "4kva"                                                          "4kva"                                                          "4"     "AC"   "7.4 kW AC"
+"charging_station:output"               "socket:tesla_supercharger:output:-2024=150kw"                  "socket:tesla_supercharger:output:-2024=150kw"                  "150"   "DC"   "150 kW DC, 7.4 kW AC"

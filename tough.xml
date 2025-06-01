@@ -42,3 +42,4 @@
     <tag k="socket:type2:output" v="3,7 кВт + 22 кВт"/>
     <tag k="socket:type2:output" v="7,4 кВт"/>
     <tag k="socket:type2:output" v="4kva"/>
+    <tag k="charging_station:output" v="socket:tesla_supercharger:output:-2024=150kw"/>
