@@ -19,4 +19,8 @@ The XML files were generated using Osmium, where "tough.xml" is a small selectio
 
 osmium tags-filter north-america-latest.osm.pbf amenity=charging_station -o north-america-latest.xml
 
+Next, to filter the "output" tags, run:
+
+cat north-america-latest.xml | grep output > north-america-latest-output.xml
+
 The original eight PBF files - one per continent - were downloaded from Geofabrik.
