@@ -13,7 +13,7 @@ Run:
 
 ./parsemax all.xml > all.txt
 
-There are two elements to the processor.  The first interprets the maximum power for a given socket type via an OpenStreetMap tag.  The second combines the previous result with the present result to create an accumulated maximum.  The constant "MAX_POWER_RESET" defines after how many lines to reset the second algorithm.  During normal operation, a reset will occur for each station, but stations may contain two or more socket types in some cases.  DC and AC values are treated separately.
+There are two elements to the processor.  The first interprets the maximum power for a given socket type via an OpenStreetMap tag, accounting for multiple entries.  The second combines the previous result with the present result to create an accumulated maximum.  The constant "MAX_POWER_RESET" defines after how many lines to reset the second algorithm.  During normal operation, a reset will occur for each station, but stations may contain two or more socket types in some cases.  DC and AC values are treated separately.
 
 The XML files were generated using Osmium, where "tough.xml" is a small selection of the world total "all.xml" with some added edge cases.  For example, to filter all charging stations in North America, run:
 
